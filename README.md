@@ -1,2 +1,4 @@
 # Sherry You's Data Science Portfolio
-An overview of my data science-related projects from my various undergraduate courses. 
+
+## Introduction
+Hi, welcome to my portfolio! My name is Sherry You and I am currently specializing in management with focuses in finance and data science at the University of Toronto.
