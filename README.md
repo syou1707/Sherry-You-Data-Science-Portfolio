@@ -9,6 +9,20 @@ In this repository, you can find the various data science-related projects I hav
 2. Big-Data Tools for Economists (ECO225) - Research Project
 3. Machine Learning in Finance (RSM338) - Projects
 
+## Python Libraries and Modules
+Through my courses, we used various python libraries and modules including:
+* NumPy
+* Pandas
+* Matplotlib
+* Sklearn
+* Seaborn
+* Ciw
+* Scipy
+* Beautiful Soup
+* Geopandas
+* Qeds
+
+## Topics and Skills Explored Through My Courses
 Through these courses, I had the opportunity to explore various machine learning algorithms including:
 * Linear Regression
 * Logistic Regression
@@ -19,3 +33,4 @@ Through these courses, I had the opportunity to explore various machine learning
 * XGBoost
 * Neural Networks 
 * Deep Neural Network Applications
+
