@@ -5,14 +5,17 @@ Hi, welcome to my portfolio! My name is Sherry You and I am currently specializi
 
 In this repository, you can find the various data science-related projects I have completed through my courses over the past two years. I have seperated my projects into three folders based on the course that I took. There are three main folders:
 
-1. 
-2. 
-3. 
+1. Management Analytics for Service and Healthcare Management (RSM412) - Projects
+2. Big-Data Tools for Economists (ECO225) - Research Project
+3. Machine Learning in Finance (RSM338) - Projects
 
-## Introducing my Classes
-
-### RSM338H1: Machine Learning in Finance
-
-### ECO225H1: Big-Data Tools for Economists 
-
-### RSM412: Special Topics in Management Analytics for Service and Healthcare Management
+Through these courses, I had the opportunity to explore various machine learning algorithms including:
+* Linear Regression
+* Logistic Regression
+* K-nearest neighbours
+* K-Means Clustering 
+* Decision Trees
+* Random Forests 
+* XGBoost
+* Neural Networks 
+* Deep Neural Network Applications
