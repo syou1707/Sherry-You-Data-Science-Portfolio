@@ -3,11 +3,12 @@
 ## Introduction
 Hi, welcome to my portfolio! My name is Sherry You and I am currently specializing in management with focuses in finance and data science at the University of Toronto.
 
-In this repository, you can find the various data science-related projects I have completed through my courses over the past two years. I have separated my projects into three folders based on the course that I took. There are three main folders:
+In this repository, you can find the various data science-related projects I have completed through my courses over the past two years. I have separated my projects into the four following folders based on the course that I have taken:
 
-1. Management Analytics for Service and Healthcare Management (RSM412) - Projects
-2. Big-Data Tools for Economists (ECO225) - Research Project
-3. Machine Learning in Finance (RSM338) - Projects
+1. Machine Learning and Data Mining (ECO480) - Research Project
+2. Management Analytics for Service and Healthcare Management (RSM412) - Projects
+3. Big-Data Tools for Economists (ECO225) - Research Project
+4. Machine Learning in Finance (RSM338) - Projects
 
 ## Python Libraries and Modules
 Through my courses, we used various python libraries and modules including:
