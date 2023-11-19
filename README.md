@@ -33,6 +33,6 @@ Through these courses, I had the opportunity to explore various machine learning
 * Random Forests 
 * XGBoost
 * Neural Networks
-* LSTM
+* LSTM networks
 * Deep Neural Network Applications
 
