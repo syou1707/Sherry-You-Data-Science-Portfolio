@@ -37,8 +37,8 @@ Through these courses, I had the opportunity to explore various machine learning
 * Decision Trees
 * Random Forests 
 * XGBoost
-* PCA
-* SVM
+* Principal Component Analysis
+* Support Vector Machine
 * Neural Networks
 * LSTM networks
 * Deep Neural Network Applications
