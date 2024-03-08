@@ -12,8 +12,7 @@ Graduate Colloquia Projects
 Undergraduate Course Projects
 1. Machine Learning and Data Mining (ECO480) - Research Project
 2. Management Analytics for Service and Healthcare Management (RSM412) - Projects
-3. Big-Data Tools for Economists (ECO225) - Research Project
-4. Machine Learning in Finance (RSM338) - Projects
+3. Machine Learning in Finance (RSM338) - Projects
 
 ## Python Libraries and Modules
 Through my courses, we used various Python libraries and modules including:
