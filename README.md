@@ -27,6 +27,7 @@ Through my courses, we used various Python libraries and modules including:
 * Sklearn
 * Seaborn
 * Ciw
+* PuLP
 * Scipy
 * Beautiful Soup
 * Geopandas
