@@ -15,7 +15,9 @@ Undergraduate Course Projects
 3. Machine Learning in Finance (RSM338) - Projects
 
 Interest Projects
-1. Identifying Illegal Wildlife Trafficking Networks using Social Network Analysis and Graph Neural Networks
+1. SNA and GNNs
+- This folder contains the code and material for an interest project, "Identifying Illegal Wildlife Trafficking Networks using Social Network Analysis and Graph Neural Networks"
+- Constructed graphs, implemented Leiden algorithm for community detection and built a heterogeneous graph neural network (HGNN) to detect illegal wildlife trafficking networks. Currently fine-tuning the HGNN and testing different convolutional layers such as EGATConv and GINEConv.
 
 ## Python Libraries and Modules
 Through my courses, we used various Python libraries and modules including:
