@@ -14,6 +14,9 @@ Undergraduate Course Projects
 2. Management Analytics for Service and Healthcare Management (RSM412) - Projects
 3. Machine Learning in Finance (RSM338) - Projects
 
+Interest Projects
+1. Identifying Illegal Wildlife Trafficking Networks using Social Network Analysis and Graph Neural Networks
+
 ## Python Libraries and Modules
 Through my courses, we used various Python libraries and modules including:
 * NumPy
