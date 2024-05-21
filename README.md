@@ -3,12 +3,16 @@
 ## Introduction
 Hi, welcome to my portfolio! My name is Sherry You and I am currently a Masters of Management Analytics Candidate at the University of Toronto, Rotman School of Management. I recently graduated from the University of Toronto with a Bachelor's of Commerce, specializing in management with focuses on finance and data science.
 
-In this repository, you can find the various data science-related projects I completed during the third and fourth years of my undergraduate studies and some projects I completed for the Analytics Colloquia in my graduate program. I have separated my projects into the four following folders based on the course that I have taken:
+In this repository, you can find the various data science-related projects I completed during the third and fourth years of my undergraduate studies and some projects I completed for the Analytics Colloquia in my graduate program. I have separated my projects into the following folders based on the course that I have taken:
+
+Graduate Course Project
+1. Garbage Classification using the Vision Transformer (ViT) (RSM8521 Leveraging AI and Deep Learning Tools in Marketing)
 
 Graduate Colloquia Projects
 1. Social Network Analysis (RSM8431 Analytics Colloquia) - Project
 2. Python ArcGIS (RSM8431 Analytics Colloquia) - Project
 3. Cloud Computing (RSM8431 Analytics Colloquia) - Assignment
+4. APIs (RSM8431 Analytics Colloquia) - Assignment
 
 Undergraduate Course Projects
 1. Machine Learning and Data Mining (ECO480) - Research Project
@@ -48,4 +52,5 @@ Through these courses, I had the opportunity to explore various machine learning
 * Neural Networks
 * LSTM networks
 * Deep Neural Network Applications
+* Transformers (BERT, ViT)
 
