@@ -7,7 +7,8 @@ In this repository, you can find the various data science-related projects I com
 
 Graduate Colloquia Projects
 1. Social Network Analysis (RSM8431 Analytics Colloquia) - Project
-2. Python ArcGIS (RSM8431 Analytics Colloquia) - Project 
+2. Python ArcGIS (RSM8431 Analytics Colloquia) - Project
+3. Cloud Computing (RSM8431 Analytics Colloquia) - Assignment
 
 Undergraduate Course Projects
 1. Machine Learning and Data Mining (ECO480) - Research Project
