@@ -7,6 +7,7 @@ In this repository, you can find the various data science-related projects I com
 
 Graduate Course Project
 1. Garbage Classification using the Vision Transformer (ViT) (RSM8521 Leveraging AI and Deep Learning Tools in Marketing)
+2. BioPharma Case Study using PuLP and Gurobi (RSM8423 Optimizing Supply Chain Management and Logistics)
 
 Graduate Colloquia Projects
 1. Social Network Analysis (RSM8431 Analytics Colloquia) - Project
