@@ -5,7 +5,7 @@ Hi, welcome to my portfolio! My name is Sherry You and I am currently a Masters 
 
 In this repository, you can find the various data science-related projects I completed during the third and fourth years of my undergraduate studies and some projects I completed for the Analytics Colloquia in my graduate program. I have separated my projects into the following folders based on the course that I have taken:
 
-Graduate Course Project
+Graduate Course Projects
 1. Garbage Classification using the Vision Transformer (ViT) (RSM8521 Leveraging AI and Deep Learning Tools in Marketing)
 2. Optimizing Supply Chain Management (RSM8423) - BioPharma Case Study
 
